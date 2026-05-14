@@ -1,5 +1,5 @@
 # power-quality
-practica de gestión
+Practica 2 de gestión integral de la energía
 
 Grupo 6 MENCIA GOMEZ ORTEGA y GUILLERMO BONO TORRES
 
